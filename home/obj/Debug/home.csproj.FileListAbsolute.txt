@@ -1,0 +1,13 @@
+D:\BAI HOC\c#\home\home\bin\Debug\home.exe.config
+D:\BAI HOC\c#\home\home\bin\Debug\home.exe
+D:\BAI HOC\c#\home\home\bin\Debug\home.pdb
+D:\BAI HOC\c#\home\home\obj\Debug\home.csprojResolveAssemblyReference.cache
+D:\BAI HOC\c#\home\home\obj\Debug\home.Form1.resources
+D:\BAI HOC\c#\home\home\obj\Debug\home.Properties.Resources.resources
+D:\BAI HOC\c#\home\home\obj\Debug\home.csproj.GenerateResource.Cache
+D:\BAI HOC\c#\home\home\obj\Debug\home.exe
+D:\BAI HOC\c#\home\home\obj\Debug\home.pdb
+D:\BAI HOC\c#\home\home\obj\Debug\home.Form2.resources
+D:\BAI HOC\c#\home\home\obj\Debug\home.Form3.resources
+D:\BAI HOC\c#\home\home\obj\Debug\home.Form4.resources
+D:\BAI HOC\c#\home\home\obj\Debug\home.Form5.resources
